@@ -1,0 +1,23 @@
+{
+  "name": "casa_criativa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielNR/Casa-Criativa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielNR/Casa-Criativa/issues"
+  },
+  "homepage": "https://github.com/GabrielNR/Casa-Criativa#readme"
+}
