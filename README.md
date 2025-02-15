@@ -14,7 +14,8 @@
 <br>
 
 <div align="center">
-  <img src=".github/casa_criativa.png" alt="screenshot" >
+  <img src="public/imagens/casa-criativa-1.jpg" alt="screenshot" >
+  
 </div>
 
 <br>
